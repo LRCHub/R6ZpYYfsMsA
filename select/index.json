@@ -1,0 +1,32 @@
+{
+  "version": 1,
+  "base_track": "夏祭り恋慕う (=LOVE 6th ANNIVERSARY PREMIUM CONCERT)",
+  "base_artist": "=LOVE",
+  "createdAt": "2025-12-05T01:24:53.821944Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "夏祭り恋慕う",
+      "artist": "=LOVE",
+      "has_synced": true,
+      "path": "select/01_夏祭り恋慕う_=LOVE.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "夏祭り恋慕う(instrumental)",
+      "artist": "=LOVE",
+      "has_synced": true,
+      "path": "select/02_夏祭り恋慕う(instrumental)_=LOVE.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "夏祭り恋慕う",
+      "artist": "=LOVE",
+      "has_synced": false,
+      "path": "select/pl_01_夏祭り恋慕う_=LOVE.txt"
+    }
+  ]
+}
